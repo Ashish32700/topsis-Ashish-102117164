@@ -13,6 +13,9 @@ setup(
   install_requires=[            # I get to this in a second
           'validators',
           'beautifulsoup4',
+          'sklearn.preprocessing',
+          'pandas',
+          'numpy'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      
