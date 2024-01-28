@@ -8,7 +8,7 @@ setup(
   author = 'Ashish Verma',                   # Type in your name
   author_email = 'ashish.32700@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Ashish32700',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Ashish32700/topsis-Ashish-102117164/archive/refs/tags/V_01.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'CS', 'THAPAR'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
